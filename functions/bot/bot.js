@@ -11,6 +11,8 @@ bot.start(ctx => {
     }
 })
 
+//asdsad
+
 bot.on('text', ctx => {
     console.log("Пользователь отправил текстовое сообщение")
     try {
